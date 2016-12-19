@@ -1,0 +1,5 @@
+C:\OOBootCamp\ParkingLot\ParkingLot\ParkingLot\bin\Debug\ParkingLot.dll
+C:\OOBootCamp\ParkingLot\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\OOBootCamp\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csprojResolveAssemblyReference.cache
+C:\OOBootCamp\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.dll
+C:\OOBootCamp\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
